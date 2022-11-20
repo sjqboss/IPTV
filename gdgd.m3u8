@@ -69,5 +69,7 @@ http://27.36.62.163:9090/live/shandongHD_7000.m3u8
 http://27.36.62.163:9090/live/hubeiHD_7000.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://27.36.62.163:9090/live/heilongjiangHD_7000.m3u8
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="卫视",广东综艺频道
+http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://27.36.62.163:9090/live/jinbaotiyuHD_7000.m3u8
